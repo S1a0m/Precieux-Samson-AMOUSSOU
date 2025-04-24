@@ -42,7 +42,8 @@ Application mobile pour >> e-commerce: vente de produits locaux principalement <
 ---
 
 ### **2. Toswe - Application web**
-SPA responsive avec dashboard  
+Gestion de rendu SSR et SSG
+Achat en ligne direct sans connexion
 **Tech :** Nuxt.js (Vue.js) + FastAPI   
 **Fonctionnalités :** Auth JWT, tableau de bord, API backend  
 [Code source](https://github.com/ton-username/projet2)  
@@ -51,6 +52,7 @@ SPA responsive avec dashboard
 ---
 
 ### **3. PxEpic**
+SPA responsive
 API backend ultra-rapide pour >> le partage de blog et de mes projets personnels <<  
 **Tech :** Vue.js + Django REST Framework  
 **Fonctionnalités :** Blog, newsletter, interactions 
