@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Web & Mobile | Flutter · Vue.js · Django · FastAPI · DRF · Flask</h3>
 
 <p align="center">
-  <img src="https://github.com/S1a0m/Precieux-Samson-AMOUSSOU/tree/main/assets/sam.jpg" width="180" alt="Précieux" style="border-radius: 50%">
+  <img src="https://github.com/S1a0m/Precieux-Samson-AMOUSSOU/blob/main/assets/sam.jpg" width="180" alt="Précieux" style="border-radius: 50%">
 </p>
 
 <p align="center">
