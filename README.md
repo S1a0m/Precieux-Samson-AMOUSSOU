@@ -2,9 +2,18 @@
 <h3 align="center">Développeur Web & Mobile | Flutter · Vue.js · Django · FastAPI · DRF · Flask</h3>
 
 <p align="center">
-  <a href="mailto:precieuxdev1@gmail.com">Contact</a> •
-  <a href="https://www.linkedin.com/in/ton-linkedin/">LinkedIn</a> •
-  <a href="https://github.com/S1a0m">GitHub</a>
+  <img src="https://raw.githubusercontent.com/S1a0m/S1a0m/main/assets/pro-pic.png" width="180" alt="Précieux" style="border-radius: 50%">
+</p>
+
+<p align="center">
+  <strong><code>&lt;/&gt;</code></strong> <br>
+  <em>"Dites moi ce à quoi vous pensez et j'en ferai des lignes de code."</em>
+</p>
+
+<p align="center">
+  <a href="mailto:precieuxdev1@gmail.com">📧 Contact</a> •
+  <a href="https://www.linkedin.com/in/ton-linkedin/">🔗 LinkedIn</a> •
+  <a href="https://github.com/S1a0m">💻 GitHub</a>
 </p>
 
 ---
@@ -14,7 +23,7 @@
 Je conçois des applications **web et mobiles performantes**, en combinant des interfaces modernes avec des backends solides.  
 Autodidacte passionné, je développe des solutions utiles, bien structurées et maintenables.
 
-> **Tech préférées :** Python · Flutter · Vue.js · Django · FastAPI · DRF
+> 🛠️ **Tech préférées :** Python · Flutter · Vue.js · Django · FastAPI · DRF
 
 ---
 
@@ -42,8 +51,8 @@ Application mobile pour >> e-commerce: vente de produits locaux principalement <
 ---
 
 ### **2. Toswe - Application web**
-Gestion de rendu SSR et SSG
-Achat en ligne direct sans connexion
+Gestion de rendu SSR et SSG  
+Achat en ligne direct sans connexion  
 **Tech :** Nuxt.js (Vue.js) + FastAPI   
 **Fonctionnalités :** Auth JWT, tableau de bord, API backend  
 [Code source](https://github.com/ton-username/projet2)  
@@ -52,10 +61,10 @@ Achat en ligne direct sans connexion
 ---
 
 ### **3. PxEpic**
-SPA responsive
+SPA responsive  
 API backend ultra-rapide pour >> le partage de blog et de mes projets personnels <<  
 **Tech :** Vue.js + Django REST Framework  
-**Fonctionnalités :** Blog, newsletter, interactions 
+**Fonctionnalités :** Blog, newsletter, interactions  
 [Code source](https://github.com/S1a0m/PxEpic)
 
 ---
@@ -71,10 +80,11 @@ API backend ultra-rapide pour >> le partage de blog et de mes projets personnels
 
 - **Email** : precieuxdev1@gmail.com  
 - **LinkedIn** : [linkedin.com/in/ton-linkedin](https://linkedin.com/in/ton-linkedin)  
-- **GitHub** : [github.com/ton-username](https://github.com/S1a0m)
+- **GitHub** : [github.com/S1a0m](https://github.com/S1a0m)
 
 ---
 
 <p align="center">
-  <i>"Code is poetry when it solves real problems avec élégance."</i>
+  <i>"Code is poetry when it solves real problems avec élégance."</i><br>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-terminal-programming-flat-icons-inmotus-design.png" width="30" />
 </p>
